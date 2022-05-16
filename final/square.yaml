@@ -1,0 +1,7 @@
+##Parameter for square.cpp
+
+size_square : 3.5
+
+height_square : 1
+
+sleep_time : 15.0
